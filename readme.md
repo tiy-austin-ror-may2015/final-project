@@ -50,7 +50,7 @@ After completing this project, you be able to effectively use
 * Data models for your application in the README of the repo.
 	* All of the different models that your application will need.
 	* All properties for each model
-	* The type of each property (see [waterline documentation](https://github.com/balderdashy/waterline-docs/blob/master/models.md) for options)
+	* The types for each property.
 	* Any validation that you will have to do on the properties. Does it need to be a URL or email address, etc...
 		* How are you going to do that validation on the front-end (custom with react or jquery)? Map out which libraries you will use on the front or back end.
 	* Whether or not the property is required (true or false)
